@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+#head {
+    height: 50px;
+    width: 100%;
+    background-color: #DCDCDC;
+}
+#container {
+	height: auto;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	height: 100px;
+	width: 1200px;
+}
+#nav {
+	height: 50px;
+	width: 1200px;
+}
+#icerik {
+	height: 500px;
+	width: 1200px;
+}
+#tanitim {
+	margin: 0px;
+	height: 400px;
+	width: 1200px;
+}
+#geneltanitim {
+	height: 400px;
+	width: 1200px;
+	margin-top: 20px;
+	
+}
+#ic {
+	height: auto;
+	width: 1200px;
+}
+.icortak {
+	width: 280px;
+	height: 320px;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+}
+.ic img {
+	width: 328000px;
+}
+
+.icortak img {
+	width: 280px;
+	height: 250px;
+}
+#head #siparis {
+    width: 300px;
+    height: 20px;
+    font-size: small;
+    color: #545359;
+}
+#arama {
+    float: right;
+    height: 50px;
+    width: 500px;
+}
+#button {
+    color: #FAF9F9;
+    background-color: #007074;
+    border-width: medium;
+    width: 30px;
+    height: 30px;
+    font-size: small;
+    text-align: center;
+}
+
+a ul li {
+    list-style-type: none;
+    display: block;
+    clear: right;
+    color: #797979;
+}
+li {
+    float: left;
+
+
+}
+
+
+
+.icortak h4 {
+	text-align: center;
+	color: #ED3D40;
+}
